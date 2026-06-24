@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/premier-rendez-vous/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Premier Rendez-vous](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/premier-rendez-vous/) |
+| **Get License** | [Commercial Licensing for Premier Rendez-vous](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/premier-rendez-vous/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum dans l'air, ton charme est une arme fatale
+> Minuit sur Paname, notre attirance est brutale
+> Laisse-toi aller, oublie toutes tes peurs
+> Ce premier rendez-vous fait déjà battre mon cœur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
